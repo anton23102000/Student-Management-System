@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\classesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\classesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\studentsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\studentsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\student managment system\\student managment system\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F3329A-AA6F-45DC-BF87-55E59A47B437}|Student Managment System\\Student Managment System.csproj|solutionrelative:student managment system\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\MainMenu.cs",
+              "RelativeToolTip": "Student Managment System\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:00:31.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\LoginMenu.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\LoginMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\LoginMenu.cs",
+              "RelativeToolTip": "Student Managment System\\LoginMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:58:43.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\StudentsMenu.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\StudentsMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\StudentsMenu.cs",
+              "RelativeToolTip": "Student Managment System\\StudentsMenu.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwFQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:12:10.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassesMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\ClassesMenu.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\ClassesMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\ClassesMenu.cs",
+              "RelativeToolTip": "Student Managment System\\ClassesMenu.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwv1IAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:09:48.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\Teacher.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\Teacher.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\Teacher.cs",
+              "RelativeToolTip": "Student Managment System\\Teacher.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:36:11.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\Class.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\Class.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\Class.cs",
+              "RelativeToolTip": "Student Managment System\\Class.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:35:26.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\Program.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\Program.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\Program.cs",
+              "RelativeToolTip": "Student Managment System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:58:56.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\Student.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\Student.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\Student.cs",
+              "RelativeToolTip": "Student Managment System\\Student.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:34:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\School.cs",
+              "RelativeDocumentMoniker": "Student Managment System\\School.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Student Managment System\\Student Managment System\\School.cs",
+              "RelativeToolTip": "Student Managment System\\School.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv00AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:41:58.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
